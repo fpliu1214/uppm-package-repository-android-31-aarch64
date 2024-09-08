@@ -16,7 +16,7 @@ jobs:
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -77,7 +77,7 @@ jobs:
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -138,7 +138,7 @@ jobs:
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
