@@ -1,0 +1,5 @@
+summary: A fast disk usage analyzer
+webpage: https://github.com/Byron/dua-cli
+version: 2.29.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/dua-2.29.0-android-31-arm64-v8a.tar.xz
+bin-sha: dba2ebebdc42708358747e0755f5ab05cfaf4130e25e40079d823c99bf20c2d9

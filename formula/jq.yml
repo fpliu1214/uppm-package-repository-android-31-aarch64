@@ -1,0 +1,5 @@
+summary: A lightweight and flexible command-line JSON processor
+webpage: https://stedolan.github.io/jq
+version: 1.7.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/jq-1.7.1-android-31-arm64-v8a.tar.xz
+bin-sha: 754933a507f6d83c8519419fa81c3ac9581f7e6fead6f6372b59c73045bc897e

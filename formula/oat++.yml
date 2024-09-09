@@ -1,0 +1,5 @@
+summary: A light and powerful web framework for C++
+webpage: https://oatpp.io/
+version: 1.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/oat++-1.3.0-android-31-arm64-v8a.tar.xz
+bin-sha: 53b3c47196dd028b0768937a0209347f0999eaf2f7d733ec224cf3ebf0fe5a94

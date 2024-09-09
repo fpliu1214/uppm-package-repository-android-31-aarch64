@@ -1,0 +1,5 @@
+summary: Open source continuous file synchronization application
+webpage: https://syncthing.net/
+version: 1.27.8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/syncthing-1.27.8-android-31-arm64-v8a.tar.xz
+bin-sha: db5aaa561306b5acb92932e6a505112426bcc26aeb39d4bf23ed6d797cc83aa0

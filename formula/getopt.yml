@@ -1,0 +1,5 @@
+summary: A command-line option parsing utility
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/getopt-2.40.1-android-31-arm64-v8a.tar.xz
+bin-sha: 61e066e83f056ad411fd00a3c1d4cc1b518e9da8b1d967a78332c72773f2ca9b

@@ -1,0 +1,5 @@
+summary: Azure Storage data transfer utility
+webpage: https://github.com/Azure/azure-storage-azcopy
+version: 10.25.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/azcopy-10.25.1-android-31-arm64-v8a.tar.xz
+bin-sha: dbf25fef88851797fc0b0f2393c843679c131b4f909556d285e2f8214038dc38

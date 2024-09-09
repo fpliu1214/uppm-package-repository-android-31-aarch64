@@ -1,0 +1,5 @@
+summary: Rich and complete approach to parallelism in C++
+webpage: https://github.com/oneapi-src/oneTBB
+version: 2021.12.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libtbb-2021.12.0-android-31-arm64-v8a.tar.xz
+bin-sha: 0199cba910ce4dfa1b6f9bbde42c282dd8532e3b83701e13e57d8cd0601bc538

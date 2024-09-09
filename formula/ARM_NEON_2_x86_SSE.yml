@@ -1,0 +1,5 @@
+summary: The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
+webpage: https://github.com/intel/ARM_NEON_2_x86_SSE
+version: 2024.09.09
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/ARM_NEON_2_x86_SSE-2024.09.09-android-aarch64.tar.xz
+bin-sha: c9553b75b49753e36d3aed52bac87aeefb416da2bc1470450ba36c051807b933

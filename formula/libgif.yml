@@ -1,0 +1,5 @@
+summary: A C library for processing GIFs
+webpage: https://giflib.sourceforge.io
+version: 5.2.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libgif-5.2.2-android-31-arm64-v8a.tar.xz
+bin-sha: bb8e23bac0b8f6f5b72c4f34e0c3e4ae26ac983fcb47383ce1d6e5c6ae00bcef

@@ -1,0 +1,5 @@
+summary: Readline wrapper, adds readline support to tools that lack it
+webpage: https://github.com/hanslub42/rlwrap
+version: 0.46.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/rlwrap-0.46.1-android-31-arm64-v8a.tar.xz
+bin-sha: 3834008446a48708c890cf7a5c12eed8e900a424df244cd9f04532c5e54091af

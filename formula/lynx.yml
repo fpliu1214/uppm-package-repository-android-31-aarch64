@@ -1,0 +1,5 @@
+summary: A text-based web browser
+webpage: https://invisible-island.net/lynx/
+version: 2.8.9rel.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/lynx-2.8.9rel.1-android-31-arm64-v8a.tar.xz
+bin-sha: ee1e1e032c9d5c3e46db51cc1b68897e589ad20af78fbed95b2b46dd84e4f2e5

@@ -1,0 +1,5 @@
+summary: A toolkit for manipulation of graphic images, including conversion of images between a variety of different formats
+webpage: http://netpbm.sourceforge.net/
+version: 10.86.41
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/netpbm-10.86.41-android-31-arm64-v8a.tar.xz
+bin-sha: b4cc60ad09831a7d94bcb7801e05f06144954ffdb7987a2b2713d4bc79ecfb6a

@@ -1,0 +1,5 @@
+summary: A command-line tool to analyze packet(TCP/IP)
+webpage: https://www.tcpdump.org/
+version: 4.99.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/tcpdump-4.99.4-android-31-arm64-v8a.tar.xz
+bin-sha: 5b3996e5457909e4bbbeac76d195eab74be257eec5650c7f1a4e4af7d9848215

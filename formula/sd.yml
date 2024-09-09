@@ -1,0 +1,5 @@
+summary: Intuitive find & replace CLI
+webpage: https://github.com/chmln/sd
+version: 1.0.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/sd-1.0.0-android-31-arm64-v8a.tar.xz
+bin-sha: 98138f29ea46b0245e683b005df6f4401d88cc79baab4db958fbafb771e90ebf

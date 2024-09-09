@@ -1,0 +1,5 @@
+summary: A simple, fast and user-friendly alternative to find(1)
+webpage: https://github.com/sharkdp/fd
+version: 10.1.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/fd-10.1.0-android-31-arm64-v8a.tar.xz
+bin-sha: b0e4ec753830c9eda23e288255ab6ed4665a7c47f4cf19d96e87d3b6b5d6a738

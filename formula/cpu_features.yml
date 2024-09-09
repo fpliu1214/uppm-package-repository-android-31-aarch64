@@ -1,0 +1,5 @@
+summary: Cross platform C99 library to get cpu features at runtime
+webpage: https://github.com/google/cpu_features
+version: 0.9.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/cpu_features-0.9.0-android-31-arm64-v8a.tar.xz
+bin-sha: 239ae76d817ba81d154c7d382b49384638eb2a4c490f08efff9469861dee43b6

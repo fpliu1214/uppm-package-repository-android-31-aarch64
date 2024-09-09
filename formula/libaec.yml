@@ -1,0 +1,5 @@
+summary: Adaptive Entropy Coding implementing Golomb-Rice algorithm
+webpage: https://gitlab.dkrz.de/k202009/libaec
+version: 1.1.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libaec-1.1.3-android-31-arm64-v8a.tar.xz
+bin-sha: 38bacf66ae87922d26333026293ee7c30574f81ddb5fa692ba5ae5a95cbc2c81
