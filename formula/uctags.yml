@@ -1,5 +1,5 @@
 summary: Maintained ctags implementation
 webpage: https://github.com/universal-ctags/ctags
-version: 2024.09.09
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/uctags-2024.09.09-android-aarch64.tar.xz
-bin-sha: 4a56086ce6579b65b6c7bcd53d7066fbaef007a5829c18dc84004755f6f45eb5
+version: 2024.09.12
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/uctags-2024.09.12-android-aarch64.tar.xz
+bin-sha: 9ba14b8bc2543c9f50dd878e3d2aef0aa4075fdb94c13191f17cd98ab5a9c3dd

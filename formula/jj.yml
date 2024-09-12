@@ -1,5 +1,5 @@
 summary: A git-compatible distributed version control system
 webpage: https://github.com/martinvonz/jj
 version: 0.18.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/jj-0.18.0-android-31-arm64-v8a.tar.xz
-bin-sha: f7fcdb0344b1545cf04dba8546f10241edd360b901c4c76e2698678e595382ec
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/jj-0.18.0-android-31-arm64-v8a.tar.xz
+bin-sha: 9b9d459835fed26428f6f06493889a1e1cbe25efebbbaea8526b04f6ce16d063

@@ -1,5 +1,5 @@
 summary: Pluggable transport proxy for Tor, implementing obfs4
 webpage: https://github.com/Yawning/obfs4
 version: 0.0.14
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/obfs4proxy-0.0.14-android-31-arm64-v8a.tar.xz
-bin-sha: 25b3d5e78d6bfe68eb648a0af3866f1ee379f7c87f0947740bed7c88160d0efd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/obfs4proxy-0.0.14-android-31-arm64-v8a.tar.xz
+bin-sha: 800cb8caf4f9d592facc575549a852e7a5398dfb2fd6720a9eda0d1567b176ae

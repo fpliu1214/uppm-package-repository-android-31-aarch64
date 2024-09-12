@@ -1,5 +1,5 @@
 summary: Multiple Precision Integers and Rationals (fork of GMP)
 webpage: https://github.com/wbhart/mpir
 version: 3.0.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libmpir-3.0.0-android-31-arm64-v8a.tar.xz
-bin-sha: 2a28ef5a2e14a4d5e154ffff220579d9edde4798e25bb2c85f9229e9e1641169
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libmpir-3.0.0-android-31-arm64-v8a.tar.xz
+bin-sha: 2c270cef376a056daced8b7495826cba6a63cd589a4eb3f21af8fb21379c5e9b

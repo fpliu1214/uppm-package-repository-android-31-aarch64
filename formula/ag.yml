@@ -1,5 +1,5 @@
 summary: A fast code-searching tool similar to ack
 webpage: https://github.com/ggreer/the_silver_searcher
 version: 2.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/ag-2.2.0-android-31-arm64-v8a.tar.xz
-bin-sha: 099f6c8d108000305ea9f4f3919efc51c8e0ad9f0f5892d0b8d3a713a0d10d24
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/ag-2.2.0-android-31-arm64-v8a.tar.xz
+bin-sha: 4a6ea43be817e999a5072657ce2df7c9c7a82add5c9bc3889272cb0e3f46cc65

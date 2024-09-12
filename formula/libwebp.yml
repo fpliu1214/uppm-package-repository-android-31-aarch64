@@ -1,5 +1,5 @@
 summary: Image format providing lossless and lossy compression for web images
 webpage: https://developers.google.com/speed/webp
 version: 1.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libwebp-1.4.0-android-31-arm64-v8a.tar.xz
-bin-sha: 0ce36e62190870ddd8e83f373d402fb0596c968a8f0701e1331f8f471a1ab1a3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libwebp-1.4.0-android-31-arm64-v8a.tar.xz
+bin-sha: 71418aecaf06905f8abace5ca225f4e1724211a65fb7d9fe62c400c0dbfb93e5

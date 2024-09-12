@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.5
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/coreutils-9.5-android-31-arm64-v8a.tar.xz
-bin-sha: e184cc498b5014a2014534ac8c9daefaca5b03c67b9b5e176b88c09416295a34
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/coreutils-9.5-android-31-arm64-v8a.tar.xz
+bin-sha: b3402c66b43324231d66ed62aeced09cde9c7b8bb2bd1b71cbb5482a0461f76c

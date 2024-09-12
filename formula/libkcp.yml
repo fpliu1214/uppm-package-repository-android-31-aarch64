@@ -1,0 +1,5 @@
+summary: A Fast and Reliable ARQ Protocol
+webpage: https://github.com/skywind3000/kcp
+version: 1.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libkcp-1.7-android-31-arm64-v8a.tar.xz
+bin-sha: 91844702a754e9e53696f6285cc0934ce891c2456f8ec60a677516a0f1bbd34f

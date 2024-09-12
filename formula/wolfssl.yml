@@ -1,5 +1,5 @@
 summary: A lightweight, portable SSL library written in C
 webpage: https://www.wolfssl.com
 version: 5.7.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/wolfssl-5.7.0-android-31-arm64-v8a.tar.xz
-bin-sha: 76cb2e50f294b05a1570a8160efefb4b767ff895eb546c8c07d4da379fed37df
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/wolfssl-5.7.0-android-31-arm64-v8a.tar.xz
+bin-sha: 366da9faf0e2f7b4e372a6b687293f0ca979a8455c9933c43ca335289edbc968

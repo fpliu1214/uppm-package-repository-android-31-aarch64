@@ -1,5 +1,5 @@
 summary: tiny versions of many common UNIX utilities into a single small executable
 webpage: https://busybox.net/
 version: 1.36.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/busybox-1.36.1-android-aarch64.tar.xz
-bin-sha: a62a0aff45738dfec480727fd132e8133be67d9440f87d89ddd970aabe4eab56
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/busybox-1.36.1-android-aarch64.tar.xz
+bin-sha: 2132bb9b7140264ac032519cbf7e8de057762df9ed075377f276689107eb6d13

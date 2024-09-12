@@ -1,5 +1,5 @@
 summary: A small library to interface with ALSA in the Linux kernel
 webpage: https://github.com/tinyalsa/tinyalsa
 version: 2.0.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libtinyalsa-2.0.0-android-31-arm64-v8a.tar.xz
-bin-sha: 0b083af690f38dfd8e381019a5b3102e072ca69dc411af330a511e6185c97566
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libtinyalsa-2.0.0-android-31-arm64-v8a.tar.xz
+bin-sha: 246d7d8327d6f6a54117bab13dbb0687c7ae600eba05fbdfecbcd27f8b246313

@@ -1,5 +1,5 @@
 summary: A new type of shell
 webpage: https://www.nushell.sh
 version: 0.94.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/nushell-0.94.2-android-31-arm64-v8a.tar.xz
-bin-sha: 8e58501627eecf36ee915ea7be90a91e69e810754bd026065cab339c6c51c3be
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/nushell-0.94.2-android-31-arm64-v8a.tar.xz
+bin-sha: 159a76811b4fd7e0d66fcd8c3e337f6f0ac750f5ee6c21e7a06af14f092781a7

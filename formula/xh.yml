@@ -1,5 +1,5 @@
 summary: A friendly and fast tool for sending HTTP requests
 webpage: https://github.com/ducaale/xh
 version: 0.22.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/xh-0.22.0-android-31-arm64-v8a.tar.xz
-bin-sha: 18805433a5167902adb3161fb2fc2688ae2de034e073c2bee56e1621e0c479b7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/xh-0.22.0-android-31-arm64-v8a.tar.xz
+bin-sha: 2a52c4e14c3236642a3414bff67df317daf3419549b3bcc6819465eedce4c751

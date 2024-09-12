@@ -1,5 +1,5 @@
 summary: Performance-portable, length-agnostic SIMD with runtime dispatch
 webpage: https://github.com/google/highway
 version: 1.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libhwy-1.2.0-android-31-arm64-v8a.tar.xz
-bin-sha: abd37379aa46684274363f1c51a977db7145d467eb3bc262239a8d2820b48674
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libhwy-1.2.0-android-31-arm64-v8a.tar.xz
+bin-sha: 9f2609b70728a74877d52907698bb51b8354fdb861405a4f6ea221cc36382cbf

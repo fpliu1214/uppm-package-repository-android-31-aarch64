@@ -1,5 +1,5 @@
 summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.4.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/liblzma-5.4.6-android-31-arm64-v8a.tar.xz
-bin-sha: 432d5e2d0973fe4f808c471f059500ceb16fa9991693a5830ceb200e40c7e932
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/liblzma-5.4.6-android-31-arm64-v8a.tar.xz
+bin-sha: 327b1a93a10deaeb89a8be63010e43de5cbb2e39d0af0e5b2d5e88f58ebcb6d2

@@ -1,5 +1,5 @@
 summary: Library for support vector machines
 webpage: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 version: 3.33
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libsvm-3.33-android-31-arm64-v8a.tar.xz
-bin-sha: 0ff00713725d45d128fbbced97acdd4b6b8b3b8c8a1aea5fe30518ffc2861877
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libsvm-3.33-android-31-arm64-v8a.tar.xz
+bin-sha: 81a97cc0a799439f2758f492eb2986c6d0e494afb4f68bba2ac1f504fefb1fc0

@@ -1,5 +1,5 @@
 summary: A state-of-the-art linter for the Go programming language
 webpage: https://github.com/dominikh/go-tools
 version: 2023.1.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/go-tools-2023.1.3-android-31-arm64-v8a.tar.xz
-bin-sha: d3fafc1a31d8da734405ebc0e9866fe0e198a6b32317a6f2b8479b6d8da80a1d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/go-tools-2023.1.3-android-31-arm64-v8a.tar.xz
+bin-sha: 3634bb5970968fc299c3b28bfd0ffbbf5a4c0060e1fb62446464619767b4586a

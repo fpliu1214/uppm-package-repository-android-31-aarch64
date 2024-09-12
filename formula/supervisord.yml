@@ -1,5 +1,5 @@
 summary: A go-lang supervisor implementation
 webpage: https://github.com/ochinchina/supervisord
 version: 0.7.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/supervisord-0.7.3-android-31-arm64-v8a.tar.xz
-bin-sha: 82e79550b314b22247bac00899a4ade1956923792b88f319439b21cab744f7af
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/supervisord-0.7.3-android-31-arm64-v8a.tar.xz
+bin-sha: 14fe98faae94a6df2ff3013ca59f4d774c5065568a2cd6e09a343449425c193e

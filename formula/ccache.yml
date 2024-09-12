@@ -1,5 +1,5 @@
 summary: Object-file caching compiler wrapper
 webpage: https://ccache.dev
 version: 4.9.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/ccache-4.9.1-android-31-arm64-v8a.tar.xz
-bin-sha: fcb210faccf771d2581c206a4440ee30a5d1930c68e003e8f6647ad9de54e697
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/ccache-4.9.1-android-31-arm64-v8a.tar.xz
+bin-sha: dd2b31612f15111305a6e359b42f9c67f9fe25df87917d035338253bc7aad3d0

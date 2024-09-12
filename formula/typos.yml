@@ -1,5 +1,5 @@
 summary: A source code spell checker
 webpage: https://github.com/crate-ci/typos
 version: 1.22.9
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/typos-1.22.9-android-31-arm64-v8a.tar.xz
-bin-sha: ad6aee3a48535a7f0da23b5a43901b69ee152e21f4f2db9a7d2953800702fe63
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/typos-1.22.9-android-31-arm64-v8a.tar.xz
+bin-sha: ad7801c25f7baec378f5b0ee31d8abe02cc0f609c62c4e39ec389e8beedb1dc8

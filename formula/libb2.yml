@@ -1,5 +1,5 @@
 summary: Secure hashing function
 webpage: https://blake2.net
 version: 0.98.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/libb2-0.98.1-android-31-arm64-v8a.tar.xz
-bin-sha: 2d33b55ca41364025515cd9275241c5f18e61c44fd759a2d7e23a6c560da6c42
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/libb2-0.98.1-android-31-arm64-v8a.tar.xz
+bin-sha: ddcd8b53774b20b4a7cd16a0ea18c81d4488789f5462a2b82468547b46ec7b89

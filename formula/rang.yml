@@ -1,5 +1,5 @@
 summary: A Minimal, Header only Modern c++ library for terminal goodies
 webpage: https://github.com/agauniyal/rang
 version: 3.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/rang-3.2-android-aarch64.tar.xz
-bin-sha: 5ebc1a36980c3c58c19eaf1697274388ff5392e106d1fbe142e727939a77715d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/rang-3.2-android-aarch64.tar.xz
+bin-sha: 52931975dbcc5c80f82d3c6b36a09bdf1d990fdba37c8f92e071ed57977e4292

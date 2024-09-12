@@ -1,5 +1,5 @@
 summary: Wrapper around ripgrep that adds multiple rich file types
 webpage: https://github.com/phiresky/ripgrep-all
 version: 0.10.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/ripgrep-all-0.10.6-android-31-arm64-v8a.tar.xz
-bin-sha: 420ad171d51ffa56cb13e58c634a1073fca6456fb46169b7db204d11e8ebbefd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/ripgrep-all-0.10.6-android-31-arm64-v8a.tar.xz
+bin-sha: 0ff5360b0ef8b17c1b70b8915390e9dc8fa9b082f139e25ba0846604c90d0040

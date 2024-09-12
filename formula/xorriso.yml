@@ -1,5 +1,5 @@
 summary: ISO9660+RR manipulation tool
 webpage: https://www.gnu.org/software/xorriso
 version: 1.5.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/xorriso-1.5.6-android-31-arm64-v8a.tar.xz
-bin-sha: 8e07337506c43e810138da549fad1515650fade1bcc4ba31eab8a2c6dc8e9c6b
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/xorriso-1.5.6-android-31-arm64-v8a.tar.xz
+bin-sha: 726a6ad021eba77a3ef0ecbbdf3fbecc2b460a58e4acaf0ddc8b3df612bd7ed3

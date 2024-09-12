@@ -1,5 +1,5 @@
 summary: A free command line compiler for Twine/Twee story formats
 webpage: https://github.com/tmedwards/tweego
 version: 2.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/tweego-2.1.1-android-31-arm64-v8a.tar.xz
-bin-sha: 8e9ce08d68786833ca9f2330c2b431b40a98b0cac4750b95c12bfbc5b3ea5ac9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/tweego-2.1.1-android-31-arm64-v8a.tar.xz
+bin-sha: e1ce5bc294bb89d8824d28aee6093f3f73d0791fb0e692c512bf62d3ea41ddb9

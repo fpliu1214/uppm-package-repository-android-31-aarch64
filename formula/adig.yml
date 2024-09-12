@@ -1,5 +1,5 @@
 summary: A command-line tool that allows you to perform DNS lookups from the command line
 webpage: https://c-ares.org/
 version: 1.31.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/adig-1.31.0-android-31-arm64-v8a.tar.xz
-bin-sha: c92ed35b7bb41c4a77b980043bd7f59de462d94d840ddad3e2a635c26beee439
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/adig-1.31.0-android-31-arm64-v8a.tar.xz
+bin-sha: 4425bb75581b75bbe2f7c75f833b78badda4a69f87ceb2df50286d46ea1d093a

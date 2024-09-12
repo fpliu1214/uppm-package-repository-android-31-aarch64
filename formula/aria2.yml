@@ -1,5 +1,5 @@
 summary: Download with resuming and segmented downloading
 webpage: https://aria2.github.io
 version: 1.37.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/aria2-1.37.0-android-31-arm64-v8a.tar.xz
-bin-sha: d83d24627a08567562079c2f419272aa33cc93de238a1ee0a9fe0600213562b2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/aria2-1.37.0-android-31-arm64-v8a.tar.xz
+bin-sha: 545291670040a2473af2fd15d9c91bf74d5b92da667ee7444c500651dc1d469a

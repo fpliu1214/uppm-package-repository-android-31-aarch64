@@ -1,5 +1,5 @@
 summary: Network authentication protocol
 webpage: https://web.mit.edu/kerberos
 version: 1.21.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/krb5-1.21.2-android-31-arm64-v8a.tar.xz
-bin-sha: ea42f04444c2dc07ed00c8b91342c5f56db139ea305ee22fceee1fe0a0d1ab68
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/krb5-1.21.2-android-31-arm64-v8a.tar.xz
+bin-sha: d9ba788ecbf16101759355cf46aac93aaa7d7c44cf2b0ed40be229c0ebb808e4

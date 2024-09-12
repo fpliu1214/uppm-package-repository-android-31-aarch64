@@ -1,5 +1,5 @@
 summary: Obfuscate Go builds
 webpage: https://github.com/burrowers/garble
 version: 0.12.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/garble-0.12.1-android-31-arm64-v8a.tar.xz
-bin-sha: fd959973a868b683409b31b97fb3321334f6a611a3cae5d4fe597fbe8725ca34
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/garble-0.12.1-android-31-arm64-v8a.tar.xz
+bin-sha: dc881955f055cea28abb5906acad526e7c511dce408035c7a7fe2464345b61c4

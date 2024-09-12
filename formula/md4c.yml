@@ -1,5 +1,5 @@
 summary: A fast, SAX-like Markdown parser for C
 webpage: https://github.com/mity/md4c
 version: 0.5.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/md4c-0.5.2-android-31-arm64-v8a.tar.xz
-bin-sha: 4caf94759af6e28ab338eea63b798cee6acaa25664f26930e3d27c37778bf007
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/md4c-0.5.2-android-31-arm64-v8a.tar.xz
+bin-sha: c623eb7f81ba48fa06cff4da6cac03b3ebd7bc8e11737ab12b7d2af87729edbc

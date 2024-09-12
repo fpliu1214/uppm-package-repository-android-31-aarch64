@@ -1,5 +1,5 @@
 summary: A library for reading and editing the metadata of several popular audio formats
 webpage: https://taglib.org/
 version: 1.13.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/taglib-1.13.1-android-31-arm64-v8a.tar.xz
-bin-sha: d584ca4a54f1ce4f98a184055445d72950b0643ccd8200df51980d36cf6d401b
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/taglib-1.13.1-android-31-arm64-v8a.tar.xz
+bin-sha: 756dbd181c118e235afb3f7836557520390547e53043c3b99db1e5883fae91b7

@@ -1,5 +1,5 @@
 summary: Static checker for GitHub Actions workflow files
 webpage: https://rhysd.github.io/actionlint/
 version: 1.7.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.09/actionlint-1.7.1-android-31-arm64-v8a.tar.xz
-bin-sha: 17799a60d5847f30aa4120ebc7d565eb7d2be9dee21a50da426f1d4fbf14d201
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-31-aarch64/releases/download/2024.09.12/actionlint-1.7.1-android-31-arm64-v8a.tar.xz
+bin-sha: ea0c7cb1a2186bd32c85b195c733aed069cbcde4630d123022a168224b74bfe5
