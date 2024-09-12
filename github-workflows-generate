@@ -84,6 +84,12 @@ do
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
+      - run: |
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
+          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+
       - name: build
         run: |
           case \${{ matrix.pkg }} in
